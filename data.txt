@@ -1,0 +1,1 @@
+Rocket is a web framework in Rust designed for ease of use, type safety, and speed. It provides an easy way to build web applications or APIs by leveraging Rust's strong type system.
